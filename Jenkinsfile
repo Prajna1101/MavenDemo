@@ -1,7 +1,7 @@
 pipeline{
 	agent any
 	
-	tokens{
+	tools{
 		maven 'Maven'
 		jdk 'jdk'
 	}
